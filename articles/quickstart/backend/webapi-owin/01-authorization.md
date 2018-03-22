@@ -10,7 +10,7 @@ github:
 
 <%= include('../../../_includes/_api_auth_intro') %>
 
-<%= include('../../_includes/_api_create_new') %>
+<%= include('../_includes/_api_create_new') %>
 
 <%= include('../_includes/_api_auth_preamble') %>
 
